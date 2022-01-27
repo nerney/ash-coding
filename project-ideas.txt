@@ -1,0 +1,36 @@
+setup developer machine
+dumb text editor 
+install java 
+register on github 
+setup working directory and get this repo
+
+cover syntax:
+- the parts of a java file
+- how things are broken up; parentheses, braces, etc.
+- wave hands at scope 
+- returns and declarations 
+
+cover basic data types:
+- String 
+- int
+- double 
+- boolean 
+- char
+- Arrays
+- void
+
+talk some about methods, the concept of arguments and returns/actions. 
+
+hello world 
+- introducing a method call with an argument
+- introducing variables 
+- toy with printing stuff 
+
+favorite things or bad stuff list
+- writing methods 
+- DRY
+
+even or odd:
+- introducing numbers with int 
+- introducing booleans
+- introducing application arguments
